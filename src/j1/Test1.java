@@ -3,7 +3,7 @@ package j1;
 public class Test1 {
 
 	public static void main (String[] args)
-	{
+	{      String name="Akshith";
 		System.out.println("Hi");
 		String s1="Akshith Shetty";
 		s1=s1.toUpperCase();
