@@ -7,6 +7,8 @@ public class Test1 {
 		System.out.println("Hi");
 		String s1="Akshith Shetty";
 		s1=s1.toUpperCase();
+
+
 		
 		int count=0;
 		String s2="";
